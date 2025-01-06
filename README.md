@@ -1,4 +1,4 @@
-# The 
+# Extracting structured information from unstructured text
 
 ## Short summary
 The 
