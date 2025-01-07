@@ -28,6 +28,12 @@ Digitised extracts from:
 
 ## Method
 
+## Tools
+- Jupyter notebooks (hosted and tested in Google Colab running Python 3.10.12)
+- Python
+- OpenAI GPT 4o-mini
+
+
 
 ## Key initial findings
 
