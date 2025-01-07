@@ -1,18 +1,17 @@
 # Extracting structured information from unstructured text
 
 ## Short summary
-The 
+The aim of this investigation was to develop a computational methodology for automating the extraction and linkage of terms of interest from digitised historical datasets. We experimented with two approaches: the first used regex and NER methods whilst the second used generative AI and a few-shot prompting strategy.
 
-## Aims and objectives
+In automating the extraction of information, we hoped to facilitate the construction of knowledge graphs to more easily create linkages between collections objects, people, historic buildings, trades etc. Whilst it is possible to use Generative AI to construct knowledge graphs directly from unstructured information, in this investigation we divided the process into two sections in order to better understand the techniques for automating information extraction before adding in the additional complexity of graph creation.  
 
-The 
 
 
 ## People 
 
-**Nayomi Kasthuri Arachchi** : 
-**Alex Butterworth**
-**Felix Needham-Simpson**
+**Nayomi Kasthuri Arachchi**: 
+**Alex Butterworth**:
+**Felix Needham-Simpson**:
 
 
 
