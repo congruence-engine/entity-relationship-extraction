@@ -8,9 +8,11 @@ In automating the extraction of information, we hoped to facilitate the construc
 
 
 ## People 
--**Nayomi Kasthuri Arachchi**: Conceptualization, Formal analysis, Methodology, Software, Validation, Writing - original draft, Writing - review & editing 
--**Alex Butterworth**: Conceptualization, Data curation, Investigation, Methodology, Resources, Supervision, Writing - original draft, Writing - review & editing
--**Felix Needham-Simpson**: Data curation, Formal analysis, Software 
+**Nayomi Kasthuri Arachchi**: Conceptualization, Formal analysis, Methodology, Software, Validation, Writing - original draft, Writing - review & editing 
+
+**Alex Butterworth**: Conceptualization, Data curation, Investigation, Methodology, Resources, Supervision, Writing - original draft, Writing - review & editing
+
+**Felix Needham-Simpson**: Data curation, Formal analysis, Software 
 
 
 
