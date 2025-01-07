@@ -33,6 +33,9 @@ Digitised extracts from:
 - Python
 - OpenAI GPT 4o-mini
 
+## Outputs
+- A set of routines for applying few-shot prompting for structured data extraction that can be generalised for use on a wide range of CSVs containing historical records. The example notebooks contributed to this repo are specified below. 
+
 
 
 ## Key initial findings
