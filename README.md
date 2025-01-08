@@ -29,7 +29,7 @@ Digitised extracts from:
 ## Method
 The digitised sources were first put through a data cleaning process, which used regex on the scanned text captured through using OCR to clean the text descriptions and reduce them to the key terms of interest. In the case of extracts from a trade directory, the regex cleaning process would separate the text containing the trade/trades and business address from the original description. For example, applying the regex process to the extract “Armitage Jas. steak, chop, pickled salmon, & oyster house, 1, Harrison st. North st.” would extract “steak, chop, pickle salmon, and oyster house” as the trade.
 
-In the second stage, few-shot prompting of an LLM was applied to csv files containing the extracts from step 1. Returning to trade directory extracts again, the prompts instructed the LLM to identify each trade separately and to propose a verb for each as well as an object for the verb. In the case of the “steak, chop, pickle salmon, and oyster house” mentioned above, the LLM processed this string as:
+In the second stage, few-shot prompting of an LLM was applied to csv files containing the extracts from step 1. Returning to trade directory extracts again, the prompts instructed the LLM to identify each trade separately and to propose a verb for each as well as an object for the verb. In the case of the string “steak, chop, pickle salmon, and oyster house” mentioned above, the LLM processed this as:
 
 ![ere_result](https://github.com/user-attachments/assets/60ec786c-fe81-41e1-8ff3-c713f68d6fc7)
 
